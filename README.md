@@ -1,6 +1,7 @@
 # EstudoPython
 
 Neste repositório, estarei documentando todo o meu processo de aprendizado em Python por meio de um projeto pessoal.
+
 Com o apoio do ChatGPT, irei desenvolver um programa básico para cadastro de clientes de uma empresa fictícia. Durante esse processo, pretendo simular todas as etapas que um desenvolvedor enfrentaria em um projeto real, incluindo:
 
 - Coleta de informações com o cliente (através de reuniões simuladas);
