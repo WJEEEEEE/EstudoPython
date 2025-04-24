@@ -1,11 +1,16 @@
 # EstudoPython
-Neste repositório estarei traçando todo meu estudo em Python através de um projeto pessoal! 
 
-Junto ao ChatGPT, irei criar um programa básico para cadastros de clientes para uma determinada empresa.
-Com isso, passarei por todos os processos que um desenvolver enfrentaria, como, por exemplo: Coleta de informações junto ao cliente (através de reuniões);
-a criação de um PE, seguido por uma Modelagem em Fluxograma para apresentação das ideias ao contratante, chegando, por fim, a codificação do código em Python.
+Neste repositório, estarei documentando todo o meu processo de aprendizado em Python por meio de um projeto pessoal.
+Com o apoio do ChatGPT, irei desenvolver um programa básico para cadastro de clientes de uma empresa fictícia. Durante esse processo, pretendo simular todas as etapas que um desenvolvedor enfrentaria em um projeto real, incluindo:
 
-Todas as informações referentes a Cliente, Nomes, Documentos e Numeros serão gerados por IA afim de melhorar o fluxo de criação deste programa.
-Toda base teorica será feita e comentada por mim, demonstrando meu desenvolvimento e resolução para os problemas que serão enfrentados.
+- Coleta de informações com o cliente (através de reuniões simuladas);
 
-Aos demais, fica meu agradecimento por todos que visualizarem esse projeto! 
+- Elaboração de um Projeto Executivo (PE);
+
+- Criação de um fluxograma para modelar e apresentar as ideias ao contratante;
+
+- Implementação prática da aplicação em Python.
+
+Todas as informações utilizadas no sistema, como nomes, documentos e números, serão geradas por inteligência artificial, com o intuito de agilizar e enriquecer o processo de criação. A base teórica será construída e comentada por mim, demonstrando minha evolução, raciocínio e estratégias para a resolução dos desafios encontrados ao longo do projeto.
+
+Agradeço desde já a todos que acompanharem este trabalho!
