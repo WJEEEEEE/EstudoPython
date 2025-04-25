@@ -6,7 +6,7 @@ Com o apoio do ChatGPT, irei desenvolver um programa básico para cadastro de cl
 
 - Coleta de informações com o cliente (através de reuniões simuladas);
 
-- Elaboração de um Projeto Executivo (PE);
+- Elaboração de uma Programação Estruturada (PE);
 
 - Criação de um fluxograma para modelar e apresentar as ideias ao contratante;
 
